@@ -6,3 +6,4 @@ A list a useful static shield.io buttons to that could be use in readme
 | ------ | --- |
 | ![](https://img.shields.io/badge/project%20status-archived-important) | https://img.shields.io/badge/project%20status-archived-important |
 | ![](https://img.shields.io/badge/version-depreciated-critical) | https://img.shields.io/badge/version-depreciated-critical |
+| ![](https://img.shields.io/badge/PRS-welcome-bightgreen) | https://img.shields.io/badge/PRS-welcome-bightgreen |
