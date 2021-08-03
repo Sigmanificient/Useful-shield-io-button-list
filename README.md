@@ -1,6 +1,8 @@
-# Usefull-static-shield-io-buttion
+# Usefull static shield.io buttons list
 A list a useful static shield.io buttons to that could be use in readme
 
+
+Remember, to create a button on your readme, you want to use this syntax !
 ```
 ![](LINK)
 ```
