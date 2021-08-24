@@ -41,3 +41,8 @@ A list a useful static shield.io buttons to that could be use in readme
 | ------ | ---- |
 | ![](https://img.shields.io/badge/code%20size-1.63%20MB-blue) | Code size in bytes |
 | ![](https://img.shields.io/badge/total%20lines-120k-blue) | Total lines of codes |
+
+# Code style
+| BUTTON | LINK |
+| ------ | ---- |
+[Code Style](https://img.shields.io/badge/code%20style-pep8-green) | code%20style-pep8-green 
