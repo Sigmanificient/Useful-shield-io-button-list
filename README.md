@@ -45,4 +45,4 @@ A list a useful static shield.io buttons to that could be use in readme
 # Code style
 | BUTTON | LINK |
 | ------ | ---- |
-[Code Style](https://img.shields.io/badge/code%20style-pep8-green) | code%20style-pep8-green 
+| [Code Style](https://img.shields.io/badge/code%20style-pep8-green) | code%20style-pep8-green |
