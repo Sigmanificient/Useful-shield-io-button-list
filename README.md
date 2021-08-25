@@ -50,5 +50,5 @@ A list a useful static shield.io buttons to that could be use in readme
 # Pypi
 | BUTTON | LINK |
 | ------ | ---- |
-| [![PyPI - Downloads](https://img.shields.io/badge/dynamic/json?label=downloads&query=%24.total_downloads&url=https%3A%2F%2Fapi.pepy.tech%2Fapi%2Fprojects%2FEmbed-Templator)](https://pypi.org/project/Embed-Templator/) | badge/dynamic/json?label=downloads&query=%24.total_downloads&url=https%3A%2F%2Fapi.pepy.tech%2Fapi%2Fprojects%2F<repo> |
-| ![PyPI - Downloads](https://img.shields.io/pypi/dm/Embed-Templator) | pypi/dm/<repo> |
+| [![PyPI - Downloads](https://img.shields.io/badge/dynamic/json?label=downloads&query=%24.total_downloads&url=https%3A%2F%2Fapi.pepy.tech%2Fapi%2Fprojects%2FEmbed-Templator)](https://pypi.org/project/Embed-Templator/) | badge/dynamic/json?label=downloads&query=%24.total_downloads&url=https%3A%2F%2Fapi.pepy.tech%2Fapi%2Fprojects%2F`repo` |
+| ![PyPI - Downloads](https://img.shields.io/pypi/dm/Embed-Templator) | pypi/dm/`repo` |
